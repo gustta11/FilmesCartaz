@@ -1,0 +1,16 @@
+main {
+  padding: 2rem;
+  height: 80vh;
+}
+main h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+main section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}/*# sourceMappingURL=main.module.css.map */
